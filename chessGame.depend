@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1672867872 source:c:\users\ahmed\desktop\chessgame\main.cpp
+	"chessgame.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<cwchar>
+	<Wincon.h>
+
+1672868498 source:c:\users\ahmed\desktop\chessgame\chess.cpp
+	"chessgame.h"
+
+1672868498 c:\users\ahmed\desktop\chessgame\chessgame.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+
