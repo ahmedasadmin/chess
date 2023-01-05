@@ -1,2 +1,2 @@
-############## this program not entirely completede ############
-############## and have many bugs need to resolved ##############
+ this not completed yet and also has some bugs
+ 
